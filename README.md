@@ -8,7 +8,7 @@
 ## 📖 Sobre mí
 
 * <img src="https://cdn.discordapp.com/emojis/1124845167866806312.gif" width="16"/> Soy desarrollador de mods de Minecraft
-* 🌱 Tengo 19 años
+* 🌱 Tengo 20 años
 * 💻 Actualmente estudiando **Ingeniería en Sistemas**
 * 🌐 Encuentra mis redes en [proximamente](proximamente)
   
