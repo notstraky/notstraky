@@ -1,23 +1,44 @@
-<h1 align="center">Hi 👋, I'm Sylxnt ("Sailent")</h1>
-<h3 align="center">Software Development Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sylxntcode&label=Profile%20views&color=0e75b6&style=flat" alt="sylxntcode" /> </p>
+<h3 align="center">¡Hola! soy Straky</a> 👋</h3>
 
-<p align="left"> <a href="https://twitter.com/justsylent" target="blank"><img src="https://img.shields.io/twitter/follow/justsylent?logo=twitter&style=for-the-badge" alt="justsylent" /></a> </p>
-
-- 🔭 I’m currently working on **improve my skills, and train as a web developer.**
-
-- 🌱 I’m currently learning **Java**
-
-- ⚡ Something about me **I'm very good at videogames**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/justsylent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="justsylent" height="30" width="40" /></a>
-<a href="https://discord.gg/sylxnt." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sylxnt." height="30" width="40" /></a>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=notstraky&color=red"/> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 📖 Sobre mí
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sylxntcode&show_icons=true&locale=en&layout=compact" alt="sylxntcode" /></p>
+* <img src="https://cdn.discordapp.com/emojis/1124845167866806312.gif" width="16"/> Soy desarrollador de mods de Minecraft
+* 🌱 Tengo 19 años
+* 💻 Actualmente estudiando **Ingeniería en Sistemas**
+* 🌐 Encuentra mis redes en [proximamente](proximamente)
+  
+<hr/>
+
+## 🔥 Mis estadísticas de GitHub
+
+| [![Rachas](https://streak-stats.demolab.com?user=notstraky&theme=dark&hide_border=true&locale=es)](https://streak-stats.demolab.com?user=notstraky&theme=dark&hide_border=true&locale=es) | ![notstraky's Stats](https://git-hub-stats-liard.vercel.app/api?username=notstraky&theme=dark&show_icons=true&hide_border=true&count_private=true) |
+|--------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+
+## 🌱 Lenguajes con los que he trabajado
+
+<p align="center">
+<img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+<img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+<img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+</p>
+
+<br/>
+
+
+<hr/>
+
+<h2 align="center">📌 Repositorios fijados </h2>
+<p align="center">¡Echa un vistazo a mis repositorios fijados!</p>
+
